@@ -23,8 +23,3 @@ def test_kwadrat():
 def test_palindrom():
     assert funkcje.palindrom("ala")
     assert funkcje.palindrom("ada")
-
-test_add()
-test_product()
-test_kwadrat()
-test_palindrom()
